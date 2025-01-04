@@ -20,7 +20,7 @@ A copy of the full license text can be found [here](https://creativecommons.org/
 If you use or remix these files, I'd love to hear about it! Feel free to share your projects or modifications.
 
 ## BOM
-BOM for [[Saturn 6]] project
+BOM for Saturn 6 project
 
 Parts for build
  - [Slim Cat6 patch cables](https://a.co/d/a7xnncM)
@@ -32,6 +32,7 @@ Parts for build
  - [Din rails](https://a.co/d/a7xnncM)
  - [38mm Compressor feet](https://a.co/d/a7xnncM)
  - [600mm 2020 Extrusion](https://a.co/d/5f3lkJL) 4x400mm and 8x214mm
+ - [6 outlet PDU](https://www.aliexpress.us/item/3256805777681738.html?spm=a2g0o.order_list.order_list_main.5.21ef194d0AyTGm&gatewayAdapt=glo2usa)
  - M5 screws - button head for the front
  - M5 T-nuts (lots)
  - M3 screws for top panel clips, panel clips and the switch chassis ears
