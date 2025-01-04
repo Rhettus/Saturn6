@@ -19,6 +19,37 @@ A copy of the full license text can be found [here](https://creativecommons.org/
 
 If you use or remix these files, I'd love to hear about it! Feel free to share your projects or modifications.
 
+## BOM
+BOM for [[Saturn 6]] project
+
+Parts for build
+[Slim Cat6 patch cables](https://a.co/d/a7xnncM)
+[140mm fan for exhaust](https://a.co/d/a7xnncM)
+[Threaded M4 rods](https://a.co/d/a7xnncM) to hold the Pi cluster together
+[2x 2.5Gbe PoE switches](https://a.co/d/a7xnncM) with SFP+
+	[0.3m DAC cable](https://a.co/d/iWrGbuD)
+[2020 corner joints](https://a.co/d/a7xnncM)
+[Din rails](https://a.co/d/a7xnncM)
+[38mm Compressor feet](https://a.co/d/a7xnncM)
+[600mm 2020 Extrusion](https://a.co/d/5f3lkJL) 4x400mm and 8x214mm
+M5 screws - button head for the front
+M5 T-nuts (lots)
+M3 screws for top panel clips, panel clips and the switch chassis ears
+M3 Heat set inserts for switch ears and DIN brackets
+
+Printed parts not included
+16x[ Voron panel clips](https://www.printables.com/model/702768-kit-for-removable-panelsdoors-for-voron-v2trident-/files). 
+	m3 screws
+4x[Bottom Corner Bracket](https://www.printables.com/model/702768-kit-for-removable-panelsdoors-for-voron-v2trident-/files) - 1mm Foam Tape - Use for top panel
+4x[Compact ZeroG Bracket Mod](https://www.printables.com/model/519670-compact-zerog-din-bracket-mod)
+
+## Known issues:
+
+- The RPi holders that fit the PoE & NVMe hat block off USB power port. Not an issue for me
+- The width of the RPi holders is too wide to fit the threaded screw between the extrusions. Need to trim a couple of mm off each holder and redo the ears. I assembled in the rack.
+
+
+Work in progress
 
 
 ## Attributions
