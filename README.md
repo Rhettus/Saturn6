@@ -1,6 +1,28 @@
 # Saturn 6 
 Saturn 6: a compact 10” minilab that hosts 5xRaspberry Pi's and an ARM based NAS.
 
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
+You are free to:  
+- **Share**: Copy and redistribute the material in any medium or format.  
+- **Adapt**: Remix, transform, and build upon the material.  
+
+Under the following terms:  
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+- **NonCommercial**: You may not use the material for commercial purposes.  
+- **No Additional Restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  
+
+A copy of the full license text can be found [here](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+
+If you use or remix these files, I'd love to hear about it! Feel free to share your projects or modifications.
+
+
+
+## Arributions
+If you use or remix these files, I'd love to hear about it! Feel free to share your projects or modifications.
 Thanks to the wonderful creators and licensing under CC. These are the 3D files I either used, or remixed for Saturn 6 which were not my own                                                                                                 
 
 | Part                    | Creator                                                                             | Link                                                                                                                 | Modifications                                                                                                                              |
