@@ -21,8 +21,7 @@ If you use or remix these files, I'd love to hear about it! Feel free to share y
 
 
 
-## Arributions
-If you use or remix these files, I'd love to hear about it! Feel free to share your projects or modifications.
+## Attributions
 Thanks to the wonderful creators and licensing under CC. These are the 3D files I either used, or remixed for Saturn 6 which were not my own                                                                                                 
 
 | Part                    | Creator                                                                             | Link                                                                                                                 | Modifications                                                                                                                              |
