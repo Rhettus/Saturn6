@@ -33,8 +33,9 @@ Parts for build
  - [38mm Compressor feet](https://a.co/d/a7xnncM)
  - [600mm 2020 Extrusion](https://a.co/d/5f3lkJL) 4x400mm and 8x214mm
  - [6 outlet PDU](https://www.aliexpress.us/item/3256805777681738.html?spm=a2g0o.order_list.order_list_main.5.21ef194d0AyTGm&gatewayAdapt=glo2usa)
+ - [QuickPort F-Type Adapter](https://a.co/d/gwulnIx) - for rear skirt internet connection
  - M5 screws - button head for the front
- - M5 T-nuts (lots)
+ - [M5 T-nuts](https://a.co/d/aCP52xv) (lots)
  - M3 screws for top panel clips, panel clips and the switch chassis ears
  - M3 Heat set inserts for switch ears and DIN brackets
 
