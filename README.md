@@ -1,6 +1,11 @@
 # Saturn 6 
 Saturn 6: a compact 10” minilab that hosts 5xRaspberry Pi's and an ARM based NAS.
 
+## Printed parts
+
+All chassis parts were printed in PETG
+
+All faceplates were printed in PLA
 
 ## License
 
@@ -30,7 +35,7 @@ Parts for build
  - [2x 2.5Gbe PoE switches](https://a.co/d/4PgA6Y8) with SFP+
 	[0.3m DAC cable](https://a.co/d/iWrGbuD)
  - [2020 corner joints](https://a.co/d/eAyFSsW)
- - [Din rails](https://a.co/d/a7xnncM)
+ - [Din rails](https://a.co/d/hCQvD7X)
  - [38mm Compressor feet](https://a.co/d/a7xnncM)
  - [600mm 2020 Extrusion](https://a.co/d/5f3lkJL) 4x400mm and 8x214mm
  - [6 outlet PDU](https://www.aliexpress.us/item/3256805777681738.html?spm=a2g0o.order_list.order_list_main.5.21ef194d0AyTGm&gatewayAdapt=glo2usa)
@@ -39,6 +44,7 @@ Parts for build
  - [M5 T-nuts](https://a.co/d/aCP52xv) (lots)
  - M3 screws for top panel clips, panel clips and the switch chassis ears
  - M3 Heat set inserts for switch ears and DIN brackets
+ - 17x Cat 6a keystone jacks 
 
 Printed parts not included
  - 16x[ Voron panel clips](https://www.printables.com/model/702768-kit-for-removable-panelsdoors-for-voron-v2trident-/files). 
