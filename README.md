@@ -24,8 +24,8 @@ BOM for Saturn 6 project
 
 Parts for build
  - [Slim Cat6 patch cables](https://a.co/d/a7xnncM)
- - [140mm fan for exhaust]([https://a.co/d/a7xnncM](https://a.co/d/3VLQnNa)
- - [Threaded M4 rods]([https://a.co/d/a7xnncM](https://a.co/d/84yPzoR) to hold the Pi cluster together. These will need to be cut down.
+ - [140mm fan for exhaust](https://a.co/d/3VLQnNa)
+ - [Threaded M4 rods](https://a.co/d/84yPzoR) to hold the Pi cluster together. These will need to be cut down.
  - M4 Nuts
  - [2x 2.5Gbe PoE switches](https://a.co/d/4PgA6Y8) with SFP+
 	[0.3m DAC cable](https://a.co/d/iWrGbuD)
