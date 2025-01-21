@@ -32,7 +32,7 @@ Parts for build
  - [140mm fan for exhaust](https://a.co/d/3VLQnNa)
  - [Threaded M4 rods](https://a.co/d/84yPzoR) to hold the Pi cluster together. These will need to be cut down.
  - M4 Nuts
- - [2x 2.5Gbe PoE switches](https://a.co/d/4PgA6Y8) with SFP+
+ - [2x 2.5Gbe PoE switches](https://a.co/d/0Q9Amk9) with SFP+ - Get the managed version
 	[0.3m DAC cable](https://a.co/d/iWrGbuD)
  - [2020 corner joints](https://a.co/d/eAyFSsW)
  - [Din rails](https://a.co/d/hCQvD7X)
