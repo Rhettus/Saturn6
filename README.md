@@ -1,11 +1,14 @@
 # Saturn 6 
 Saturn 6: a compact 10” minilab that hosts 5xRaspberry Pi's and an ARM based NAS.
 
+Whats new:
+**01/26/2024** - Modification to the RPi cluster holder. This is now 1 piece which helps with tolerances and fitment into the rack. No need for threaded rods anymore. The rear has been opened up to allow more airflow. Mounts for 3x70mm fans have been included to draw air through the front, over the Pi's and out the rear. Mine are controlled via a ESP32 microcontroller hooked up to Home Assistant.
+
 ## Printed parts
 
-All chassis parts were printed in PETG
+All chassis parts are printed in PETG
 
-All faceplates were printed in PLA
+All faceplates are printed in PLA (Matte in my case)
 
 ## License
 
@@ -27,11 +30,9 @@ If you use or remix these files, I'd love to hear about it! Feel free to share y
 ## BOM
 BOM for Saturn 6 project
 
-Parts for build
+Parts for build v1.1
  - [Slim Cat6 patch cables](https://a.co/d/a7xnncM)
  - [140mm fan for exhaust](https://a.co/d/3VLQnNa)
- - [Threaded M4 rods](https://a.co/d/84yPzoR) to hold the Pi cluster together. These will need to be cut down.
- - M4 Nuts
  - [2x 2.5Gbe PoE switches](https://a.co/d/4PgA6Y8) with SFP+
 	[0.3m DAC cable](https://a.co/d/iWrGbuD)
  - [2020 corner joints](https://a.co/d/eAyFSsW)
@@ -46,6 +47,10 @@ Parts for build
  - M3 Heat set inserts for switch ears and DIN brackets
  - 17x Cat 6a keystone jacks 
 
+Not needed in v1.1
+- ~~[Threaded M4 rods](https://a.co/d/84yPzoR) to hold the Pi cluster together. These will need to be cut down.~~
+ - ~~M4 Nuts~~
+
 Printed parts not included
  - 16x[ Voron panel clips](https://www.printables.com/model/702768-kit-for-removable-panelsdoors-for-voron-v2trident-/files). 
  - 4x[Bottom Corner Bracket](https://www.printables.com/model/702768-kit-for-removable-panelsdoors-for-voron-v2trident-/files) - 1mm Foam Tape - Use for top panel
@@ -54,7 +59,7 @@ Printed parts not included
 ## Known issues:
 
 - The RPi holders that fit the PoE & NVMe hat block off USB power port. Not an issue for me
-- The width of the RPi holders is too wide to fit the threaded screw between the extrusions. Need to trim a couple of mm off each holder and redo the ears. I assembled in the rack.
+- ~~The width of the RPi holders is too wide to fit the threaded screw between the extrusions. Need to trim a couple of mm off each holder and redo the ears. I assembled in the rack.~~
 
 
 Work in progress
