@@ -33,8 +33,8 @@ BOM for Saturn 6 project
 Parts for build v1.1
  - [Slim Cat6 patch cables](https://a.co/d/a7xnncM)
  - [140mm fan for exhaust](https://a.co/d/3VLQnNa)
- - [2x 2.5Gbe PoE switches](https://a.co/d/4PgA6Y8) with SFP+
-	[0.3m DAC cable](https://a.co/d/iWrGbuD)
+ - [2x 2.5Gbe PoE switches](https://a.co/d/4PgA6Y8) with SFP+ - Get the managed version
+ - [0.3m DAC cable](https://a.co/d/iWrGbuD)
  - [2020 corner joints](https://a.co/d/eAyFSsW)
  - [Din rails](https://a.co/d/hCQvD7X)
  - [38mm Compressor feet](https://a.co/d/a7xnncM)
