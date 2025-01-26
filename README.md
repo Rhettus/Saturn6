@@ -1,7 +1,8 @@
 # Saturn 6 
 Saturn 6: a compact 10” minilab that hosts 5xRaspberry Pi's and an ARM based NAS.
 
-Whats new:
+## Whats new:
+
 **01/26/2024** - Modification to the RPi cluster holder. This is now 1 piece which helps with tolerances and fitment into the rack. No need for threaded rods anymore. The rear has been opened up to allow more airflow. Mounts for 3x70mm fans have been included to draw air through the front, over the Pi's and out the rear. Mine are controlled via a ESP32 microcontroller hooked up to Home Assistant.
 
 ## Printed parts
